@@ -1,0 +1,16 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain-community
+duckduckgo-search
+
+opencv-python
+SpeechRecognition
+ffmpeg-python
+
+chromadb
+sentence-transformers
+PyPDF2
+
+numpy
+requests
