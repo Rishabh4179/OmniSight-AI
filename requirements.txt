@@ -6,6 +6,7 @@ ddgs
 
 opencv-python
 SpeechRecognition
+ffmpeg
 
 chromadb
 sentence-transformers
