@@ -4,7 +4,7 @@ python-dotenv
 langchain-community
 duckduckgo-search
 
-opencv-python
+opencv-python-headless
 SpeechRecognition
 ffmpeg-python
 
